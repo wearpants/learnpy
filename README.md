@@ -20,3 +20,6 @@ Running tests
 -------------
 `nosetests --with-coverage`
 
+Update docs
+-----------
+`make -C doc/ html`
